@@ -22,14 +22,13 @@ Users should be able to:
 
 ### Screenshots
 
-![Screenshot 1](./screenshots/screenshot-1.png)
-![Screenshot 1](./screenshots/screenshot-2.png)
-![Screenshot 1](./screenshots/screenshot-3.png)
+![Screenshot 1](./screenshots/desktop-result.png)
+![Screenshot 2](./screenshots/phone-result.png)
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/nft-preview-card-with-shadows-and-grid-sWcQSmqIRC)
-- Live Site URL: [GitHub Pages](https://inlumio.github.io/nft-preview-card-component-frontendmentor/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/stats-preview-card-component-with-flex-eyurDmht2p)
+- Live Site URL: [GitHub Pages](https://inlumio.github.io/stats-preview-card/)
 
 ## Author Profiles
 
